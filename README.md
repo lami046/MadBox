@@ -1,1 +1,2 @@
-Основано на https://github.com/nathancmiguel/ALSReplicated
+Основано - https://github.com/nathancmiguel/ALSReplicated
+Версия UE - UE 4.26
