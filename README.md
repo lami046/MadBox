@@ -1,1 +1,1 @@
-Основано на реплицированой версии ALSv4 - https://github.com/nathancmiguel/ALSReplicated
+Основано на https://github.com/nathancmiguel/ALSReplicated
